@@ -2,5 +2,9 @@
   "name": "autolingo",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^16.0.0"
+  }
 }
