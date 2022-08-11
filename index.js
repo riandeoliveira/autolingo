@@ -5,7 +5,8 @@ dotenv.config();
 
 const pages = {
   auth: "https://www.duolingo.com/?isLoggingIn=true",
-  story: "https://www.duolingo.com/stories/en-pt-a-date?mode=read",
+  story: "https://www.duolingo.com/stories/en-pt-good-morning?mode=read",
+  // story: "https://www.duolingo.com/stories/en-pt-a-date?mode=read",
 };
 
 const selectors = {
